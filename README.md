@@ -22,7 +22,8 @@ This system is built for speed, accuracy, and an intuitive user experience.
 ---
 > **📸 Screenshots:**
 > <img width="1599" height="757" alt="image" src="https://github.com/user-attachments/assets/0d9d8fc9-8103-452d-b8eb-82b550a3bd6c" />
-
+<img width="1597" height="754" alt="image" src="https://github.com/user-attachments/assets/6b8164a1-c67c-4794-9e32-d807bbb3a5ec" />
+<img width="975" height="462" alt="image" src="https://github.com/user-attachments/assets/717e2731-b22c-4a8d-bb2e-139ced8f3692" />
 
 ### ⚙️ Prerequisites
 
