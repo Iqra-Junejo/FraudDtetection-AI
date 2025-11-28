@@ -1,4 +1,4 @@
-# fraud_detection.py  →  SUPER SIMPLE VERSION (Guaranteed to work)
+# AUTHOR: Iqra Junejo
 
 import torch
 import torch.nn as nn
